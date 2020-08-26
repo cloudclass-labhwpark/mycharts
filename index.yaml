@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  eventapp-labhwpark:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-08-26T18:14:03.043335+09:00"
+    description: A Helm chart for Kubernetes
+    digest: fe025644129c50eeba75a80fe5cc08a1875ad49e87bd3c3ba692daac35a8958e
+    name: eventapp-labhwpark
+    type: application
+    urls:
+    - https://cloudclass-labhwpark.github.io/mycharts/eventapp-labhwpark-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-08-26T18:14:03.042073+09:00"
